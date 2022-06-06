@@ -1,0 +1,11 @@
+gensim==4.1.2
+matplotlib==3.5.1
+networkx==2.7.1
+nltk==3.7
+numpy==1.22.3
+pyemd==0.5.1
+scikit_learn==1.1.1
+scipy==1.8.0
+stanza==1.2.3
+tqdm==4.63.0
+transformers==4.17.0
