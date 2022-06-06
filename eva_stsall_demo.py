@@ -26,7 +26,7 @@ nlp = stanza.Pipeline(lang='en', processors='tokenize,mwt,pos,lemma,depparse',
                     tokenize_no_ssplit=True,
                     verbose = True)
 #%% functions
-def whole_graph(parsing_data, word2id, hop_size=3):
+def build_graph(parsing_data, word2id, hop_size=3):
     num_pair = 0
     G = nx.Graph()
     edge_count = defaultdict(float)
@@ -124,7 +124,7 @@ for task, task_func in zip(task_list, task_func_list):
     parsing_data= nlp('\n\n'.join(parsing_batch))
     parsing_data = lib_dep.stanza2dic(parsing_data)
 
-    G, num_pair = whole_graph(parsing_data, word2id, hop_size=3)
+    G, num_pair = build_graph(parsing_data, word2id, hop_size=3)
     word_weight = {}
     pr = nx.pagerank(G, alpha=0.2)
     for k in range(len(vocab)):
