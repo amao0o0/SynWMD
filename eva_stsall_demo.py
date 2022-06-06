@@ -92,7 +92,7 @@ param = {'batch_size': 64,
         'tree': 's', # 'n' -> without DWD, that is SynWMD_dwf, 's'  -> use DWD, that is SynWMD_dwf+dwd
         'a': 1, # float, parameter a in DWD, controlling how much contextual and structual infor DWD considers
         'hop_num': 3, # int, subtree size in DWD
-        'layer': 'last', # embedding layer: 'first_last', 'last', 'last2' or int
+        'layer': 'first_last', # embedding layer: 'first_last', 'last', 'last2' or int
         'whiten_flag': True, # whitening pre-processing
         'pre_whiten': True, # use pre-trained kernel and bias, only works when 'whiten_flag': True
         'pre_kernel': kernel, # pre-trained kernel for whitening, otherwise set to []
