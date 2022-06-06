@@ -39,6 +39,8 @@ BERT (First-last) |BERTScore| 61.32 | 73.00 | 66.52 | 78.47 | 73.43 | 71.77 | 70
 BERT (First-last) |SynWMD<sub>dwf</sub> | 66.34 | 77.08 | 68.96 | **79.13** | 74.05 | 74.06 | 73.27 
 BERT (First-last) |SynWMD<sub>dwf+dwd</sub> | **66.74** | **79.38** | **69.76** | 78.77 | **75.52** | **74.81** | **74.16**
 
+- First run ```run parser_download.py``` to download the parser.
+
 - The kernel and bias for whitening BERT (first_last) embedding are provided in `/data/whiten/`. You can also run ```python whiten.py``` to get the whitening kernel and bias for BERT (first_last) embedding.
 
 - The results can be obtained by the demo `eva_stsall_demo.py`
