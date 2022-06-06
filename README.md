@@ -16,7 +16,7 @@ conda activate synwmd
 pip install -r requirements.txt
 
 # pytorch
-pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu113
+conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
 ```
 
 # Data Download
