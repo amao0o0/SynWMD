@@ -42,5 +42,14 @@ BERT (First-last) |SynWMD<sub>dwf+dwd</sub> | **66.74** | **79.38** | **69.76** 
 - First run `whiten.py` for BERT (first_last) embedding
 
 - The results can be obtained by the demo `eva_stsall_demo.py`
-    - directly running ```python eva_stsall_demo.py``` gives the result of SynWMD<sub>dwf+dwd</sub> using BERT (First-last) embeddings
-    - Other results can be obtained by changing the parameters in the demo `eva_stsall_demo.py`
+    - Directly running ```python eva_stsall_demo.py``` gives the result of SynWMD<sub>dwf+dwd</sub> using BERT (First-last) embeddings
+    - Other results can be reproduced by changing the parameters in the demo `eva_stsall_demo.py`
+
+# Citation
+If you find our model is useful in your research, please consider cite our paper: ...
+
+# Acknowledge
+A part of the code is modified from other work. Many thanks for
+
+1. [MoverScore](https://github.com/AIPHES/emnlp19-moverscore)
+2. [SentEval](https://github.com/facebookresearch/SentEval) Sentence Evluation toolkit.
