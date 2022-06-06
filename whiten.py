@@ -1,7 +1,7 @@
 #%%
 import string
 import os
-os.environ['MOVERSCORE_MODEL'] = 'bert-base-uncased' #"sentence-transformers/bert-base-nli-mean-tokens"
+os.environ['SynWMD_MODEL'] = 'bert-base-uncased' #"sentence-transformers/bert-base-nli-mean-tokens"
 #'bert-base-uncased' #
 import warnings
 warnings.filterwarnings("ignore")

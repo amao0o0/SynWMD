@@ -28,7 +28,7 @@ device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 if os.environ.get('SynWMD_MODEL'):
     model_name = os.environ.get('SynWMD_MODEL')
 else:
-    model_name = 'distilbert-base-uncased'
+    model_name = 'bert-base-uncased'
 tokenizer = AutoTokenizer.from_pretrained(model_name, do_lower_case=True)
 model = AutoModel.from_pretrained(model_name, output_hidden_states=True, output_attentions=True)
 model.to(device)
