@@ -5,6 +5,8 @@ SynWMD, an improved Word Mover's Distance, leverages sentence structural informa
 
 # Environment Setup
 
+Linux OS is recommended
+
 ```
 # create a new virtual environment with conda 
 conda create -n synwmd python=3.9.7
