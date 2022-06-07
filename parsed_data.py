@@ -52,4 +52,3 @@ for name, func in zip(['STS12', 'STS13', 'STS14', 'STS15', 'STS16'], [STS12Eval,
     Path(output_path).mkdir(parents=True, exist_ok=True)
     with open(output_path+'data.pickle', mode='wb') as fp:
         pickle.dump(doc, fp)
-# %%

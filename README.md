@@ -38,14 +38,24 @@ BERT (First-last) |WMD<sub>cos</sub>+IDF | 63.79 | 69.25| 64.51 | 77.58 | 71.7 |
 BERT (First-last) |BERTScore| 61.32 | 73.00 | 66.52 | 78.47 | 73.43 | 71.77 | 70.75
 BERT (First-last) |SynWMD<sub>dwf</sub> | 66.34 | 77.08 | 68.96 | **79.13** | 74.05 | 74.06 | 73.27 
 BERT (First-last) |SynWMD<sub>dwf+dwd</sub> | **66.74** | **79.38** | **69.76** | 78.77 | **75.52** | **74.81** | **74.16**
+SimCSE-BERT |Sent. Emb. | 68.40 | 82.41 | 74.38 | 80.91 | 78.56 | 76.85 | 76.92
+SimCSE-BERT |WMD<sub>l2</sub>| 64.66 | 79.72 | 73.12 | 81.25 | 76.69 | 77.53 | 75.50
+SimCSE-BERT |WMD<sub>cos</sub>| 65.43 | 80.00 | 73.35 | 81.21 | 76.97 | 77.18 | 75.69
+SimCSE-BERT |WRD| 64.80 | 80.97 | 74.13 | 80.71 | 76.68 | 78.47 | 75.96
+SimCSE-BERT |WMD<sub>l2</sub>+IDF | 67.35 | 81.36 | 74.56 | 82.29 | 78.12 | 79.18 | 77.14
+SimCSE-BERT |WMD<sub>cos</sub>+IDF | 68.47 | 81.76 | 74.98 | 82.30 | 78.29 | 78.98 | 77.46
+SimCSE-BERT |BERTScore| 66.31 | 82.87 | 75.66 | 83.14 | 79.16 | 80.03 | 77.86
+SimCSE-BERT |SynWMD<sub>dwf</sub> | 70.20 | 83.36 | 76.17 | 83.16 | 78.81 | **80.02** | 78.62
+SimCSE-BERT |SynWMD<sub>dwf+dwd</sub> | **70.27** | **83.44** | **76.19** | **83.21** | **78.83** | 79.98 | **78.66**
 
-- First run ```run parser_download.py``` to download the parser.
+- First ```run parser_download.py``` to download the parser.
 
 - The kernel and bias for whitening BERT (first_last) embedding are provided in `/data/whiten/`. You can also run ```python whiten.py``` to get the whitening kernel and bias for BERT (first_last) embedding.
 
 - The results can be obtained by the demo `eva_stsall_demo.py`
     - Directly running ```python eva_stsall_demo.py``` gives the result of SynWMD<sub>dwf+dwd</sub> using BERT (First-last) embeddings
-    - Other results can be reproduced by changing the parameters in the demo `eva_stsall_demo.py`
+    - Directly running ```python eva_stsall_demo2.py``` gives the result of SynWMD<sub>dwf+dwd</sub> using SimCSE-BERT embeddings
+    - Other results can be reproduced by changing the parameters in the demo `eva_stsall_demo.py` or `eva_stsall_demo2.py`
 
 # Citation
 If you find our model is useful in your research, please consider cite our paper: ...
