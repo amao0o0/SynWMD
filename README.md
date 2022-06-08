@@ -40,6 +40,9 @@ BERT (First-last) |WMD<sub>cos</sub>+IDF | 63.79 | 69.25| 64.51 | 77.58 | 71.7 |
 BERT (First-last) |BERTScore| 61.32 | 73.00 | 66.52 | 78.47 | 73.43 | 71.77 | 70.75
 BERT (First-last) |SynWMD<sub>dwf</sub> | 66.34 | 77.08 | 68.96 | **79.13** | 74.05 | 74.06 | 73.27 
 BERT (First-last) |SynWMD<sub>dwf+dwd</sub> | **66.74** | **79.38** | **69.76** | 78.77 | **75.52** | **74.81** | **74.16**
+
+Embeddings        | Methods | STS12 | STS13 | STS14 | STS15 | STS16 | STS-B | Avg.
+------------------|---------|-------|-------|-------|-------|-------|-------|-----
 SimCSE-BERT |Sent. Emb. | 68.40 | 82.41 | 74.38 | 80.91 | 78.56 | 76.85 | 76.92
 SimCSE-BERT |WMD<sub>l2</sub>| 64.66 | 79.72 | 73.12 | 81.25 | 76.69 | 77.53 | 75.50
 SimCSE-BERT |WMD<sub>cos</sub>| 65.43 | 80.00 | 73.35 | 81.21 | 76.97 | 77.18 | 75.69
