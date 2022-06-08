@@ -44,13 +44,9 @@ BERT (First-last) |SynWMD<sub>dwf+dwd</sub> | **66.74** | **79.38** | **69.76** 
 Embeddings        | Methods | STS12 | STS13 | STS14 | STS15 | STS16 | STS-B | Avg.
 ------------------|---------|-------|-------|-------|-------|-------|-------|-----
 SimCSE-BERT |Sent. Emb. | 68.40 | 82.41 | 74.38 | 80.91 | 78.56 | 76.85 | 76.92
-SimCSE-BERT |WMD<sub>l2</sub>| 64.66 | 79.72 | 73.12 | 81.25 | 76.69 | 77.53 | 75.50
 SimCSE-BERT |WMD<sub>cos</sub>| 65.43 | 80.00 | 73.35 | 81.21 | 76.97 | 77.18 | 75.69
-SimCSE-BERT |WRD| 64.80 | 80.97 | 74.13 | 80.71 | 76.68 | 78.47 | 75.96
-SimCSE-BERT |WMD<sub>l2</sub>+IDF | 67.35 | 81.36 | 74.56 | 82.29 | 78.12 | 79.18 | 77.14
 SimCSE-BERT |WMD<sub>cos</sub>+IDF | 68.47 | 81.76 | 74.98 | 82.30 | 78.29 | 78.98 | 77.46
-SimCSE-BERT |BERTScore| 66.31 | 82.87 | 75.66 | 83.14 | 79.16 | 80.03 | 77.86
-SimCSE-BERT |SynWMD<sub>dwf</sub> | 70.20 | 83.36 | 76.17 | 83.16 | 78.81 | **80.02** | 78.62
+SimCSE-BERT |BERTScore| 66.31 | 82.87 | 75.66 | 83.14 | 79.16 | **80.03** | 77.86
 SimCSE-BERT |SynWMD<sub>dwf+dwd</sub> | **70.27** | **83.44** | **76.19** | **83.21** | **78.83** | 79.98 | **78.66**
 
 - First ```run parser_download.py``` to download the parser.
