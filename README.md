@@ -49,7 +49,7 @@ SimCSE-BERT |WMD<sub>cos</sub>+IDF | 68.47 | 81.76 | 74.98 | 82.30 | 78.29 | 78.
 SimCSE-BERT |BERTScore| 66.31 | 82.87 | 75.66 | 83.14 | 79.16 | **80.03** | 77.86
 SimCSE-BERT |SynWMD<sub>dwf+dwd</sub> | **70.27** | **83.44** | **76.19** | **83.21** | **78.83** | 79.98 | **78.66**
 
-- First ```run parser_download.py``` to download the parser.
+- First ```python parser_download.py``` to download the parser.
 
 - The kernel and bias for whitening BERT (first_last) embedding are provided in `/data/whiten/`. You can also run ```python whiten.py``` to get the whitening kernel and bias for BERT (first_last) embedding.
 
