@@ -60,6 +60,8 @@ SimCSE-BERT |SynWMD<sub>dwf+dwd</sub> | **70.27** | **83.44** | **76.19** | **83
 
 # Citation
 If you find our model is useful in your research, please consider cite our paper:
+......
+......
 ```
 @misc{https://doi.org/10.48550/arxiv.2206.10029,
   doi = {10.48550/ARXIV.2206.10029},
