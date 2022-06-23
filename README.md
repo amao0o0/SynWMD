@@ -59,7 +59,27 @@ SimCSE-BERT |SynWMD<sub>dwf+dwd</sub> | **70.27** | **83.44** | **76.19** | **83
     - Other results can be reproduced by changing the parameters in the demo `eva_stsall_demo.py` or `eva_stsall_demo2.py`
 
 # Citation
-If you find our model is useful in your research, please consider cite our paper: ...
+If you find our model is useful in your research, please consider cite our paper:
+```
+@misc{https://doi.org/10.48550/arxiv.2206.10029,
+  doi = {10.48550/ARXIV.2206.10029},
+  
+  url = {https://arxiv.org/abs/2206.10029},
+  
+  author = {Wei, Chengwei and Wang, Bin and Kuo, C. -C. Jay},
+  
+  keywords = {Computation and Language (cs.CL), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  
+  title = {SynWMD: Syntax-aware Word Mover's Distance for Sentence Similarity Evaluation},
+  
+  publisher = {arXiv},
+  
+  year = {2022},
+  
+  copyright = {arXiv.org perpetual, non-exclusive license}
+}
+```
+Our paper is submitted to Pattern Recognition Letters, citation info will be updated once it is accepted.
 
 # Acknowledge
 A part of the code is modified from other work. Many thanks for
