@@ -24,7 +24,7 @@ stop_words = stop_words + punct
 nlp = stanza.Pipeline(lang='en', processors='tokenize,mwt,pos,lemma,depparse',
                     tokenize_pretokenized=True,
                     tokenize_no_ssplit=True,
-                    verbose = True)
+                    verbose = True, use_gpu= True)
 #%% functions
 def build_graph(parsing_data, word2id, hop_size=3):
     num_pair = 0

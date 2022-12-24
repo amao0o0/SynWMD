@@ -7,7 +7,7 @@ the lamb is looking at the camera .	a small bird standing on a log at the waters
 a passenger train waiting in a station .	a passenger train sits in the station .
 a woman at a dinner table writing on her notebook .	woman at table busy with something .
 an apple computer sitting on the floor .	a macintosh computer sitting on the floor .
-a close-up of a brown horse 's head .	a side view of a horse 's head .
+a close-up of a brown horse ' s head .	a side view of a horse ' s head .
 a group of people eat at a table outside .	group of elderly people sitting around a table .
 the curious boys look in the shed .	two small boys in a woody area looking at a shed .
 a jockey riding a horse .	a jockey riding a horse in a pen .
@@ -24,7 +24,7 @@ close up of a bottle of water .	a close up view of a bottle of water .
 a close up of a brown faced cat .	a close up of an ostrich face .
 sheep standing in afield .	a sheep grazing in a field .
 a group of people eat at a table outside .	a group of elderly people pose around a dining table .
-a longed-haired cat with it 's eyes closed .	a close up of a cat with its eyes closed .
+a longed-haired cat with it ' s eyes closed .	a close up of a cat with its eyes closed .
 a woman in a gray shirt smiles for the camera while the woman behind her makes a face .	a woman with a surprised look on her face is holding a smiling woman from behind .
 a silver and blue amtrak train on the tracks near a small train station .	a small white car parked at the gas station .
 a person in a blue shirt reclines near a coffee table and television .	a person stands on the motorcycle seat and pops a wheelie .
@@ -232,7 +232,7 @@ red double decker bus .	a red , double-decker bus .
 feet standing on a pretty day with large building in background .	two police officers standing behind a van with a bus in the background .
 a small white dog chews on a twig while lying on a wooden deck .	the white dog is laying on the wooden floor underneath the table .
 man standing in front of silver train .	man standing in front of a silver rail car .
-a close-up of a sheep with its tongue hanging out .	close up image of a sheep with it 's tongue hanging out .
+a close-up of a sheep with its tongue hanging out .	close up image of a sheep with it ' s tongue hanging out .
 a black and white horned cow standing in a field .	a black and white cow standing in the field .
 a small bird sitting on a branch in winter .	a small bird perched on an icy branch .
 a yellow bird is eating fruit on a wire grate .	a yellow bird eating fruit on a bird feeder .
@@ -381,13 +381,13 @@ home office space with bright green walls and artwork .	an office with multiple 
 large white cruise ship floating on water .	large cruise ship floating on the water .
 two young people are sitting at a table next to a sliding glass door , with one person pointing at the other .	two people sit facing each other at a table as one points at the other .
 a black and white photo of a man driving a car and someone with a motorcycle .	a black and white photo of a man in a classic car and a man with a classic motorcycle .
-a man and a woman holding hands walking along the beach .	a man with a beard and a skullcap and a boy walk along the ocean 's shore .
+a man and a woman holding hands walking along the beach .	a man with a beard and a skullcap and a boy walk along the ocean ' s shore .
 ten sheep looking at the camera .	a cat on its back looking at the camera .
 a black and white dog looking at the camera .	a small black and white goat in a pen looking up at the camera .
 a black table with white fuzzy chair .	a woman with her child .
 red double decker bus taking on passengers .	a red double decker bus driving down a street .
 sail boat sailing on the water .	sailboat sailing on a cloudy day .
-a blue bird perches on the gloved hand of a person .	a bird is perched on a person 's gloved hand .
+a blue bird perches on the gloved hand of a person .	a bird is perched on a person ' s gloved hand .
 three people are by the water with yellow canoes .	three people preparing to canoe .
 a girl riding on a brown and white horse .	a girl riding a brown horse .
 a mostly black train on a track .	a car parked in front of train tracks .
@@ -489,7 +489,7 @@ tan cow with ear tags on a grassy field .	person in grassy field tending to shee
 a close up of the front end of a purple and white motor cycle .	close up of the rear of a red sports car .
 two women shopping at a clothing store .	two women in a clothing store .
 a group of people sitting at a restaurant table .	group of people sitting at table of restaurant .
-a close-up of a brown horse 's head .	a close-up of a yellow school bus .
+a close-up of a brown horse ' s head .	a close-up of a yellow school bus .
 a person in a red cap standing next to a brick support beam .	a brown horse is standing on grass and scrub .
 a bay foal is walking next to its mother in a grassy field .	close-up of young horse walking next to a larger horse .
 a women standing next to a brown cow .	a women in glasses stands next to a cow in a field .
@@ -531,7 +531,7 @@ a group of people sitting at a restaurant table .	a group of people sitting arou
 a black and white cow in a pen with hay .	a black and white cat lies in the dirt .
 a red , double-decker bus .	front and left side of a red double decker bus .
 a yellow school bus parked in a field .	a brown horse in a green field .
-a close-up view of a horse 's head .	a side view of a horse 's head .
+a close-up view of a horse ' s head .	a side view of a horse ' s head .
 an elderly man works on his laptop at home .	older gentleman sitting on couch with laptop .
 an old fashioned wooden sailing ship in the ocean .	a wooden yacht on the ocean .
 a sheep standing in a mountainous area .	a large sheep standing on a hill .
@@ -587,7 +587,7 @@ two women stand in a living room with a black dog .	two women standing in a livi
 two motorbikes racing on a dirt course .	two motorbikes on a dirt track .
 two people paddling a red canoe are reflected in the still water .	two people paddling in a red canoe with trees in the background .
 a close-up view of the headlights of a blue old-fashioned car .	close up of the headlights on a blue car .
-a person is standing underneath an overpass near a highway .	a person walks a dog along the water 's edge .
+a person is standing underneath an overpass near a highway .	a person walks a dog along the water ' s edge .
 cars driving near a model building .	vehicles driving infant of an ornate building .
 a woman and child push strollers down the sidewalk .	a women and a young girl walking pushchairs along the sidewalk .
 a blue and orange airplane flying with its landing gear down .	a red and blue plane flying with its landing gears down .
@@ -733,10 +733,10 @@ three cows grazing in a field .	two cows graze in a field .
 a young woman with outstretched arms stands in front of a " going places " bus .	tthe girl is standing in front of the open door of the bus .
 a sheep beside a road and a lake .	a sheep is on the edge of a road with a lake and a mountain in the background .
 black and white cow standing in grassy field .	a black and white photo of a man standing next to a bus .
-a blue bird perched on a gloved hand .	a bird is perched on a person 's gloved hand .
+a blue bird perched on a gloved hand .	a bird is perched on a person ' s gloved hand .
 a group of people having a meal outside .	a group of people eat at a table outside .
 a baby holds a ketchup packet .	a baby in a highchair holds a ketchup packet .
-a close-up view of a horse 's head .	a close-up of a brown horse 's head .
+a close-up view of a horse ' s head .	a close-up of a brown horse ' s head .
 two cats sitting together on the sofa looking out the window .	two cats sit on the back of a couch looking out the window .
 a train is at a train station .	a train in a station .
 a dark brown horse standing in a field .	horse standing in a field .

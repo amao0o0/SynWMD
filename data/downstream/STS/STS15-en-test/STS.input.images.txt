@@ -18,7 +18,7 @@ two gray dogs run together over the green grass .	two grey dogs running in green
 a boy in a red sled is riding down the hill .	a multicolour dog in a red collar crouching on the grass .
 a dog has run into the water to catch a ball in his mouth .	a dog running through water with a ball in its mouth
 the dogs are running through the water	the dog runs through the snow .
-a white and brown dog rolls on it 's back in the sand .	a dog lying on its back in the sand .
+a white and brown dog rolls on it ' s back in the sand .	a dog lying on its back in the sand .
 a dog runs through the grass .	two dogs running through the grass .
 two dogs play in the grass .	two dogs playing in the snow .
 a black and brown dog runs through the woods .	a dog running through the woods .
@@ -98,7 +98,7 @@ a dog in a " superman " shirt sleeps on a blanket .	a brown dog in a superman sh
 a brown and white dog is running through the snow .	a brown and white dog is running on the grass .
 man wearing a beret riding a bicycle	a man in a beret rides a bicycle down the street .
 a tan dog is pulling a red sled in the snow .	a dog is pulling a red sled across the snow .
-a black dog running with a black and white toy in it 's mouth .	a black dog flies through the air while holding an object in its mouth .
+a black dog running with a black and white toy in it ' s mouth .	a black dog flies through the air while holding an object in its mouth .
 the white and brown dog runs across the grass .	a brown and white dog runs across the grass .
 a baby reaching into a water fountain .	a baby trying to catch water from a fountain in his mouth
 two black dogs run through a field .	two spotted dogs are running through a field
@@ -159,7 +159,7 @@ man is carrying a tool box down the sidewalk .	a woman is riding a blue bicycle 
 a man wearing a t-shirt that says " gigolo " stands at the counter talking to someone .	a man wearing a shirt that says " gigolo " is standing at a front desk area with his back to the camera .
 a tent and a campsite in a sunlit forest .	a white dog on a beach is carrying a stick in its mouth .
 two large dogs running in some grass .	two brindle dogs running in the grass .
-a dog swimming with a stick in it 's mouth .	a dog running with a stick in it 's mouth .
+a dog swimming with a stick in it ' s mouth .	a dog running with a stick in it ' s mouth .
 a group of four hiking through a snowy forest .	a group of people hike through a snowy wooded area .
 two black dogs playing in the snow .	a dog playing in the snow .
 a dog is running through tall grass .	a dig is trekking through snow .
@@ -174,7 +174,7 @@ a group of people near a fun house at a carnival .	a group of people are looking
 a man playing fetch with two brown dogs .	a woman plays with a brown dog .
 a tan and white dog retrieving a ball on a gravel path .	a large dog walks along a gravel path in the woods .
 two people and a dog are in the snow .	two people playing on a snowy hill .
-a dog is running across the sand with a stick in it 's mouth .	a dog is running through a creek with a stick in its mouth .
+a dog is running across the sand with a stick in it ' s mouth .	a dog is running through a creek with a stick in its mouth .
 a man is standing in water near a waterfall .	a man wades in the water and watches a water fall .
 a black dog is chasing two birds on the shore of the ocean .	a dog is running along the beach beside the ocean .
 a surfer is riding on a breaking wave .	a surfer is riding a wave .
@@ -201,7 +201,7 @@ a young man wearing a green shirt in jumping in the air	a tan dog watching a bro
 a brown dog jumps over hurdle with flames on each end .	a light brown dog jumping over a hurdle that has fire on each end .
 two women sitting on a bench , their faces obscured , with one woman carrying an inflatable tiger and the other woman in a disney snow white costume .	a girl sits on a bench holding an inflatable tiger next to another girl in a colorful outfit .
 a guy and two girls are smiling at the camera .	three dogs , one white and two brown , are running together on a field of grass .
-a dog swimming with a stick in it 's mouth .	dog swimming in the water with a stick in its mouth .
+a dog swimming with a stick in it ' s mouth .	dog swimming in the water with a stick in its mouth .
 a person snowboarding and jumping over a construction sign .	a long snowboarder jumping over a barricade outside in the snow .
 a black poodle plays in the snow .	a black poodle frolics in the snow .
 two officers with orange jackets stand outside a white tent with onlookers .	men with hats on stand outside of a white tent .
@@ -213,7 +213,7 @@ two dogs in water as a man looks on from a dock .	two dogs are running in the wa
 the kids ride a boat in the water .	the four kids are riding a raft on the water .
 a girl is wearing a purple sash and matching skirt .	a group of girls stands wearing jean skirts and superman shirts .
 a large white bird swoops over water .	a large white bird flying over water .
-a man takes photos on the water 's edge .	a bald man is taking shots of a body of water from a camera .
+a man takes photos on the water ' s edge .	a bald man is taking shots of a body of water from a camera .
 two dogs fighting in the snow .	two dogs standing in the snow .
 the man and two young boys jump on a trampoline .	a man and two boys are bouncing on a trampoline .
 a small child slides down a purple slide .	a girl slides down a purple slide .
@@ -255,7 +255,7 @@ the girl with the blue bucket splashes beneath the pier .	the girl in the ski ja
 a skier speeds through the snow .	a brown dog carrying a frisbee runs through the snow .
 two people are playing golf on a golf course .	two people are on a golf course playing golf .
 a boy and a girl playing on the beach .	a dog playing in the waves with a ball .
-a dog running across the snow with a snowball in it 's mouth .	a tan dog is running through the grass with a yellow toy in its mouth .
+a dog running across the snow with a snowball in it ' s mouth .	a tan dog is running through the grass with a yellow toy in its mouth .
 a girl wearing a brown cap , red sneakers , and a dark green coat sits on a rock bench .	a woman in a knit cap and green coat its on a stone block , looking out .
 the child in the red coat laid in the red mat .	the toddler is ready to climb the red piece of equipment .
 two dogs play in the grass .	two dogs are playing in the grass .
@@ -304,7 +304,7 @@ a white dog with brown spots is chewing on a ropey black toy .	a white and brown
 a small brown dog jumping up to catch a tennis ball .	a wet dog chasing a white ball
 three boys playing soccer in a field	three boys playing soccer .
 a young boy wearing a blue visor swings a bat .	a young boy with a visor on plays ball with his bat in the street .
-a brown dog walks in the grass with it 's tongue hanging out .	a grey dog walks in the green grass , tongue hanging out .
+a brown dog walks in the grass with it ' s tongue hanging out .	a grey dog walks in the green grass , tongue hanging out .
 five men dressed in tuxedos standing on a set of stairs	five men in tuxedos are walking down steps .
 two dogs running in a field .	two dogs running in the dirt .
 a black dog and a tan dog fighting .	a black dog and a spotted dog are fighting
@@ -352,7 +352,7 @@ a man in a white suit walks down the street holding a newspaper .	a man in a whi
 a man with his bike amid a demolished building .	a man sits on the stairs next to his bike .
 a black and white dog swimming in clear water .	a small black and white dog is swimming in water .
 two racing dogs run in the mud .	the man is going into the water .
-a bird with it 's wings spread	a bird soars with wings spread .
+a bird with it ' s wings spread	a bird soars with wings spread .
 two black and white dogs run across a green field .	a white dog is running across a grassy field .
 a young boy jumping into a pool that says " no diving " .	a boy jumps into a pool while lifeguards watch .
 a black dog with a blue collar is running in the snow .	a black dog wearing a blue collar is running through the snow .
@@ -383,7 +383,7 @@ the brown and black dog sprints across the snow .	a black dog is running quickly
 a man in a black jacket is taking a photo of a man in a red jacket .	a man in a black outfit is taking a photograph of a man in a red jacket .
 the man in the backpack looks to his left .	an adult male wearing a backpack walks and looks to the left .
 an elderly man in a blue shirt is holding up a piece of canvas art .	a black man is walking next to a building in a big city .
-a dog is carrying something pink in its mouth while walking through the snow .	a dog with something pink in it 's mouth is looking forward .
+a dog is carrying something pink in its mouth while walking through the snow .	a dog with something pink in it ' s mouth is looking forward .
 two skinny young boys playing with sand in the water .	two dogs are shaking water off .
 the black and white dog has its mouth wide open .	a black and white dog jumps in the snow .
 a small dog runs through an obstacle course .	a small dog jumping over an obstacle .
@@ -449,7 +449,7 @@ a man in jeans is playing with a ball while a woman in jeans stands nearby looki
 a black dog is running through the snow .	the black and brown dog is running through the snow .
 a woman in a pink bikini is laying on a deck lounge chair that is covered with a pink towel .	a woman in a white shirt and black skirt on a tennis court .
 a skier is falling into the snow .	a skier is falling face first into the snow .
-a dog with a red toy in it 's mouth .	a brown dog is carrying a stick in its mouth .
+a dog with a red toy in it ' s mouth .	a brown dog is carrying a stick in its mouth .
 two hockey players fighting on the ice .	two hockey players in a struggle on the ice .
 three people stand in an outdoor glass structure .	a girl stands high on an obstacle course platform .
 two terriers play on the wood floor of their home .	two puppies play with a red chew toy in a field .
@@ -462,14 +462,14 @@ two dogs groom each other .	two dogs jumping on each other .
 a man in a black wetsuit is surfung in the waves .	a surfer in a black wet suit surfs on a medium wave .
 two dogs playing in the water .	two boys playing in water .
 a deer is jumping over a fence .	a kid is jumping his bike over a fence .
-a bird with it 's wings spread	a bird flying in the air
+a bird with it ' s wings spread	a bird flying in the air
 a boy skateboards down the railing of some graffiti stairs	a skateboarder is jumping over an obstacle in front of a white house .
 a white dog is running through the water at a beach	a white dog is running through the water onto the shore .
 a man in a black leather jacket is sleeping in a subway car .	a man in a black leather jacket falls asleep on public transportation .
 a black dog jumps in the snow .	a dog jumps high in the snow .
 a dog leaping over a hurdle .	a dog leaps over the hurdle .
 two men are setting up some electronic equpitment	two dogs are wrestling on the ground in the snow .
-a black dog is walking on the grass with a stick in it 's mouth .	a boy holds a net with a snake in it close to the ground .
+a black dog is walking on the grass with a stick in it ' s mouth .	a boy holds a net with a snake in it close to the ground .
 a man and woman blow bubbles .	a man and a woman in glasses blow bubbles .
 a girl runs with dogs in a dry field .	a grey dog and a tan dog playing on a grassy field .
 two dogs playing in the snow .	two black dogs in the snow .
@@ -531,12 +531,12 @@ a gray bird is flying over the water .	a bird flying over the water .
 two people walking on the beach at sunset .	two people walking along the shore at sunset .
 a dog jumps high in the snow .	a dog runs in the snow .
 three dogs are playing in the white snow .	two dogs are playing in the grass .
-a child sprinkles confetti in a woman 's hair .	small girl in an apron placing confetti in a woman 's hair .
+a child sprinkles confetti in a woman ' s hair .	small girl in an apron placing confetti in a woman ' s hair .
 a dog runs through the water .	a dog runs through the grass .
 the man in the red shirt is climbing the side of a mountain .	a man with the monster logo shirt is surfing .
 three boys playing soccer in a field	three boys playing soccer .
 two puppies playing around in the grass	two dogs are wrestling in the grass .
-a young girl is sitting on santa 's lap .	a little girl is sitting on santa 's lap
+a young girl is sitting on santa ' s lap .	a little girl is sitting on santa ' s lap
 two people raise their arms on a snowy hill in the mountains .	two people kneel on the snow and raise their arms with mountains behind them .
 a dog is looking at something near the water .	two teenage girls are texting in the park .
 a black and white dog runs with its mouth open .	a black and white dog swims in blue water .
@@ -553,13 +553,13 @@ an old man sitting down watching something .	people stand outside watching somet
 a man and dog on a rocky seashore .	man and dog standing on rocks next to water
 brown dog splashing into the water .	four dogs splashing in the water
 a boy wearing a blue jacket swings a bat at a white ball .	a young boy in a blue jacket swings a bat at a ball .
-a woman with a knit cap on is smiling near a domino 's pizza sign .	a young woman with a knit cap stands against the wall of a domino 's pizza .
+a woman with a knit cap on is smiling near a domino ' s pizza sign .	a young woman with a knit cap stands against the wall of a domino ' s pizza .
 the smiling woman at the beach is buried in seaweed .	a girl in a cowboy hat with a sheep on a leash .
 the man in the brown jacket is sitting on the ground by the jetty .	a woman who is ski-ing poses for the camera .
 many people are eating in a crowded restaurant .	diners sit at tables in a crowded restaurant lit in blue .
 a white dog with brown spots is running in a yard , chasing a ball .	a white dog with brown markings chases an orange ball in a grassy field .
 two dogs , the white one standing on a frisbee , playing together on grass .	two dogs play on the grass .
-a dog with big ears is holding a small stick in it 's mouth .	a puppy with big ears chewing on a stick .
+a dog with big ears is holding a small stick in it ' s mouth .	a puppy with big ears chewing on a stick .
 the large brown dog is jumping through the tall grass .	the girl wearing a blue shirt is running through a science center .
 two dogs fighting in the snow .	two dogs playing in the snow .
 a snowboarder goes down a ramp .	a snowboarder going over a ramp .
@@ -577,7 +577,7 @@ the man is sitting at the top of a rocky mountain .	a person sticks their head o
 two people in snowsuits laying in the snow making snow angels	two children lying in the snow making snow angels
 a little blonde girl is standing in front of a water fountain .	a young girl standing in front of a fountain
 a blond dog and a black and white dog run in a dirt field .	a yellow dog and a black and white dog are running in the dirt .
-a man is tying a red arm band around another mans arm in the street .	a man helps tie a red ribbon around another man 's right arm during a street parade .
+a man is tying a red arm band around another mans arm in the street .	a man helps tie a red ribbon around another man ' s right arm during a street parade .
 a man standing on a boat is pulling another boat close by with a bamboo stick .	a man in a black hat standing in front of a brick wall and a sign
 a man plays his white guitar .	a man playing a white guitar and singing as well
 a person is skijoring with a dog in the mountains .	a brown dog is playing with a ball in the water .
@@ -617,9 +617,9 @@ two dogs standing in a lake .	two dogs playing on grass .
 five black dogs run in a field .	a black dog is running across a field .
 four dogs run in the grass .	a dog running in the grass .
 a little black dog is running on the snow .	a black dog is running through the snow .
-a wet white dog is splashing in the water with a stick in it 's mouth .	a white dogs treads the water with sticks in its mouth .
+a wet white dog is splashing in the water with a stick in it ' s mouth .	a white dogs treads the water with sticks in its mouth .
 the white puppies are playing on a couch with a baby bottle .	three puppies are lying on a couch beside a baby bottle .
-a dog running with a tennis ball in his mouth	a dog swimming with a stick in it 's mouth .
+a dog running with a tennis ball in his mouth	a dog swimming with a stick in it ' s mouth .
 a black , brown , and white dog is carrying a frisbee .	a black and white dog is catching a frisbee .
 a large black and tan dog is running across the snow in a wooded area .	the black and brown dog is running through the snow .
 a climber is standing on the rock face next to the pink rope .	the children are running in the snow with fences in the background .
@@ -687,7 +687,7 @@ a lack dog and a brown and white dog run on a gravel surface with something red 
 a wet black dog walks on the sand with a rock wall behind .	a black dog on a beach carrying a ball in its mouth .
 the woman is leading a dog through an obstacle course .	woman leading her small dog through an obstacle course .
 several people are sitting around a fire at night .	a group of people sit around a blazing fire at night .
-a young child is holding onto the back of a wicker chair .	a young child holds a spoon to it 's mouth while sitting in a chair .
+a young child is holding onto the back of a wicker chair .	a young child holds a spoon to it ' s mouth while sitting in a chair .
 a woman in a park wearing a purple blouse	a women with brown hair is wearing a purple shirt and a white purse .
 two dogs are running in the field .	two dogs running in a field .
 a little boy wearing boxers is holding a fist up and standing in front of a brick wall .	a man with a jacket wears headphones standing in front of a directory .
@@ -700,12 +700,12 @@ two dogs fighting in the snow .	two dogs play in the snow .
 a person standing in the middle of a bunch of snowy rocks near a waterhole .	a person stands in a vast field of glacial ice .
 a group of people are in the water .	a group of people ride in a race
 the dog is running with food in his mouth .	the dog is running with a yellow ball in his mouth .
-a brown and black dog walks in the white snow .	a brown and black dog walks in the snow with it 's tongue hanging out .
+a brown and black dog walks in the white snow .	a brown and black dog walks in the snow with it ' s tongue hanging out .
 a boy wearing face paint walks along a red track .	a boy with face paint is running on a track .
 two dogs running down a beach .	two dogs running on the beach
 a black and white dog swimming in the pool	a black and white dog running with something in his mouth .
 two dogs are sniffing something in the rocks .	two dogs running down a path in the woods .
-a dog has it 's head inside a red and green gift bag .	a pet playfully investigates the contents of a gift bag .
+a dog has it ' s head inside a red and green gift bag .	a pet playfully investigates the contents of a gift bag .
 a yellow shirted man wearing a golden sun mask .	a man in a yellow shirt wears a gold , sun-shaped mask .
 a little girl is sitting in the grass balancing a rock on her arm .	a little girl walks on a boardwalk with blue domes in the background .
 two young children are walking across an open field .	two small children walking in a field .
@@ -754,7 +754,7 @@ a dog jumping for a frisbee in the snow .	a dog is jumping in the snow .
 five men in blue and black uniforms pose for a picture .	a group of five men in uniform are posing for the camera .
 a man is riding a bicycle on a dirt path .	two dogs running along dirt path .
 a child jumps in the air at a bowling alley .	a boy in a green shirt is jumping with his arms in the air at the end of a bowling alley .
-a brown and white dog with a pink collar is barking at a brown dog with a blue collar in the snow .	the dog with the red collar is bearing it 's teeth at the dog with the blue collar .
+a brown and white dog with a pink collar is barking at a brown dog with a blue collar in the snow .	the dog with the red collar is bearing it ' s teeth at the dog with the blue collar .
 two brown dogs runs through the water .	two brown dogs running through water .
 a seated young woman in a hat is reading at a coffee shop .	a woman enjoying her reading at a coffee shop
 a black and white dog is running through the grass .	the black and white dog is running on the grass .
@@ -771,7 +771,7 @@ three greyhounds racing on a track	five greyhounds are racing on a sand track .
 a black dog is jumping out of water .	a black dog is shaking off water .
 a dog is jumping in the air trying to catch a red frisbee .	a dog is jumping in the air to catch an item .
 a brown dog is walking in the water .	two brown dogs running through water .
-a woman with two men in hats socializing outside .	a young woman with a knit cap stands against the wall of a domino 's pizza .
+a woman with two men in hats socializing outside .	a young woman with a knit cap stands against the wall of a domino ' s pizza .
 a small boy in a bathrobe is sitting in a metal chair .	a boy in a robe sits in a chair .
 a dog shakes off water	a dog shakes his head .
 people sitting on a couch laugh .	four happy people sitting on a red couch
@@ -796,7 +796,7 @@ two dogs are running on the grass .	two birds interacting in the grass
 a young boy with his hair standing up , is sliding down a blue slide	the kid in the orange shirt is sliding down a teal slide .
 many people are on the beach , near a building with flags flying .	a busy beach has people scattered on it watching the sky .
 a dog standing in the water .	a girl playing on a parachute .
-a man in a black jacket is holding a microphone toward a young girl with long brown hair .	a man in a black jacket holds a microphone up to a girl 's face .
+a man in a black jacket is holding a microphone toward a young girl with long brown hair .	a man in a black jacket holds a microphone up to a girl ' s face .
 a brown and white dog is walking next to a man on a skateboard .	a blond child is laying on a branch of a tree in a green field .
 man riding a surfboard on a wave .	a man in black on a surfboard riding a wave .
 a surfer is riding on a breaking wave .	a group of surfers catching a wave
@@ -818,7 +818,7 @@ two dogs are running through the grass near a house and trees .	two dogs are run
 the brown and white dog is running across the sand with a red object in his mouth .	a dog is running along a beach with a red object in its mouth .
 a man and a woman are smiling .	a man and a woman laughing .
 a man is standing on top of a rock or mountain watching the sun set .	a man standing in the mountains watching a sunset .
-a brown and white pitbull runs through the grass with a stick in it 's mouth .	a dog runs through the water while holding a stick in its mouth .
+a brown and white pitbull runs through the grass with a stick in it ' s mouth .	a dog runs through the water while holding a stick in its mouth .
 two little girls are playing on a trampoline .	two little boys are playing on a playground .
 a black and white dog jumping into the air .	a black and white dog jumping to catch a ball .
 two girls are jumping high in the air .	two dogs nussle one another in the grass near a lake .
@@ -831,8 +831,8 @@ a tan dog runs through the snow .	a black dog running through the snow .
 a brown and white dog is running across a brown field .	a person hanging from a rocky cliff .
 brown dog running on grass .	the dog is running on grass .
 a dog jogs through the grass .	a dog trots through the grass .
-a woman stands on a wall to pet an elephant .	a man is riding an elephant while another person is touching the elephant 's head .
-a white , fluffy dog is standing on its hind legs .	a man is walking behind a dog that is standing on it 's hind legs .
+a woman stands on a wall to pet an elephant .	a man is riding an elephant while another person is touching the elephant ' s head .
+a white , fluffy dog is standing on its hind legs .	a man is walking behind a dog that is standing on it ' s hind legs .
 two people wearing hats sit and look at the camera .	a man wearing a blue shirt makes a grouchy face .
 a dog lies at the front of a boat headed into the fog .	a man helps another man do a back flip in a yard .
 a skateboarder doing a trick on a ramp	a skateboarder riding up to a slope .
@@ -848,13 +848,13 @@ a surfer catching a big wave in the ocean .	a man is surfing a large wave in the
 a man in a white shirt is dancing with a woman in black .	a man in a white print shirt and a woman in a black dress dancing .
 a girl in a pink shirt is sprawling her limbs out in midair .	a man dressed in a santa suit is climbing up a large concrete building .
 a little girl in a red shirt pulls a kite .	a girl in a red shirt takes a picture on a phone .
-a dog runs with a yellow toy in its mouth .	a dog swimming with a stick in it 's mouth .
+a dog runs with a yellow toy in its mouth .	a dog swimming with a stick in it ' s mouth .
 child sliding in the snow .	man sleeping on the street .
 the black dog plays in the snow .	a black poodle is playing with the snow .
 a white dog with brown ears is running on the sidewalk .	a white dog with brown spots is running in a yard , chasing a ball .
 three dogs are playing in the water .	three dogs swim in the water .
 a white dog running on sand .	a white dog runs on the sand .
-a little girl with her hands in the air is sitting on a man 's back while he is laying on a blanket .	a kid runs in the opposite direction of others who were playing a game .
+a little girl with her hands in the air is sitting on a man ' s back while he is laying on a blanket .	a kid runs in the opposite direction of others who were playing a game .
 a woman in costume is playing a bagpipe .	a lady wearing a red dress is playing a bag pipe .
 a group of people having their picture taken .	a group of people are in the water .
 a red and white race car racing on a dirt racetrack .	a person is riding a dirt bike in a race on a dirt track .
@@ -865,7 +865,7 @@ a man with a messenger bag in front of a gray tile wall .	man in red jacket stan
 the dogs are walking in the desert .	three dogs playing in the green water .
 a dog swims in the water .	three dogs swim in the water .
 group of little girls and a dog standing on the road .	a group of people white water rafting in a blue raft .
-a little white curly haired dog runs across the pavement with a stick in its mouth .	a white curly haired dog runs with a stick in it 's mouth .
+a little white curly haired dog runs across the pavement with a stick in its mouth .	a white curly haired dog runs with a stick in it ' s mouth .
 a man in a wet suit is throwing a baby wearing a wet suit up into the air .	a man in a white print shirt and a woman in a black dress dancing .
 a man in a grey suit kneels in front of a woman in a white dress .	a woman in red with a beer followed by a man in white .
 two large brown dogs are both grabbing a black frisbee .	two brown dogs are biting on a black frisbee .
@@ -876,7 +876,7 @@ two dogs play in the grass .	two dogs play in the water .
 a black and white dog is running through the grass .	a tan dog is walking through snow .
 a woman walks with a book while talking on a cell phone .	a woman wearing a blue coat walks and talks on her cellphone .
 a man walks two dogs on leashes down the street	a man walks two dogs in the city .
-a brown and white dog with a pink frisbee in it 's mouth is humping over a man 's back .	a dog with a frisbee in its mouth , jumps over a man .
+a brown and white dog with a pink frisbee in it ' s mouth is humping over a man ' s back .	a dog with a frisbee in its mouth , jumps over a man .
 an adult male wearing a backpack walks and looks to the left .	a man wearing a backpack looking to the side .
 a dog is running in the snow .	two dogs running in the dirt
 a small boy playing in the snow .	the brown and white dog is playing in the snow .
@@ -900,7 +900,7 @@ a dog runs through the long grass .	a dog lays down in the long green grass .
 the black dog is running through the snow .	a race car driver is driving his car through the mud .
 a dog wearing a green sweater and a backpack walking on snow .	a small dog wearing a green sweater and a backpack walks through snow .
 a group of people sitting around a desk .	a group of girls on a beach .
-the brown dog is running through the grass with a yellow toy in it 's mouth .	a tan dog running through the grass with a toy in his mouth .
+the brown dog is running through the grass with a yellow toy in it ' s mouth .	a tan dog running through the grass with a toy in his mouth .
 three dogs are running in a field .	two dogs are running in a grassy field
 a man and woman with their hands on their chins are standing next to a christmas tree .	the man with a white beard and blue cap is standing in the doorway of a workshop .
 the black and white dog has a stick in his paws .	a black dog and a white dog are standing on snow .
@@ -933,7 +933,7 @@ three dogs playing in the snow while one dog wears a jacket .	three dogs playing
 many football players sitting on the ground .	a dog rolls on the ground .
 a group of people in boats racing towards the shore .	a group of people stand together and pose in front of a house .
 a little boy and a little girl playing together outside .	a woman wearing a white shirt stands on the street .
-a person in a red vest is touching the blue ice skates on another person .	a lady fastens someone 's ice skates in the snow .
+a person in a red vest is touching the blue ice skates on another person .	a lady fastens someone ' s ice skates in the snow .
 a golden dog plays in the snow	three dogs playing in the snow .
 a man wearing glasses stands in front of a snowy mountain .	a man wearing black shorts is standing in front of a snow covered mountain .
 a girl bounces upside down on her head on a trampoline .	a girl is bouncing on her head on a trampoline .
@@ -954,10 +954,10 @@ a boy doing a back flip into a swimming pool .	a boy wearing red and blue swim t
 three little boys cover themselves with bubbles .	three children standing by a pool are covered in foam bubbles .
 the boy is looking up at the girl as another girl ignores them .	the boy is diving into the pool as the couple watch .
 two white standard poodles play with a toy in the snow	two dogs fighting in the snow .
-a crowd of people stand on a rural road , a field behind them , a forest in front .	a bunch of people standing next to a car with it 's trunk open .
+a crowd of people stand on a rural road , a field behind them , a forest in front .	a bunch of people standing next to a car with it ' s trunk open .
 boy lies on stomach in grass .	small boy lying on his stomach on the grass .
 a man is jumping over a low wall holding a bicycle .	a man walks over a small sign carrying his bicycle .
-a black dog is swimming with a ball in it 's mouth .	a white dog is standing on it 's hind legs with a ball in it 's mouth .
+a black dog is swimming with a ball in it ' s mouth .	a white dog is standing on it ' s hind legs with a ball in it ' s mouth .
 a black dog with a blue collar is running in the snow .	a black dog with a red collar plays in the snow .
 a japanese swordsman jumps into the air .	a woman is getting her dog to jump in the air .
 a boy wearing a yellow shirt and blue pants is climbing a tree in a hilly area .	a boy wearing a yellow shirt and blue pants is climbing on a tree branch in a grassy field .
@@ -1010,7 +1010,7 @@ small black dog running in grass	two dogs running in grass
 a girl is doing a trick on her trampoline .	a girl does a handstand on a trampoline .
 two dogs run through the snow , one with a tennis ball .	the boy is doing a stunt , through the air , on his bicycle .
 two dogs run towards shore through shallow water .	two grey dogs running through the shallow water of a lake .
-a black dog is walking on the grass with a stick in it 's mouth .	the black dog is running on the grass with a toy in it 's mouth .
+a black dog is walking on the grass with a stick in it ' s mouth .	the black dog is running on the grass with a toy in it ' s mouth .
 kids playing tag football .	young boys play touch football .
 three children playing in snow .	three children playing in hay
 a man walks toward a policeman standing in a crosswalk on a city street .	a policeman stands in a crosswalk in a city .
@@ -1122,7 +1122,7 @@ a girl wearing a pink coat splashes in rain puddles .	a girl in a pink jacket is
 a dog jumps over a chain .	a dog leaping over a chain .
 a man stands in front of snow covered mountains .	a man skiing down a snow covered mountain .
 little girl and older male , holding hands and walking on train tracks .	the little girl in the blue dress is walking with a man along a railway track .
-a black and grey dog runs in a field with it 's tongue hanging out .	a black dog with a red collar walks through the grass with his mouth open and tongue hanging out .
+a black and grey dog runs in a field with it ' s tongue hanging out .	a black dog with a red collar walks through the grass with his mouth open and tongue hanging out .
 a girl with a black purse sitting on a wooden bench .	a young woman with a black purse sits on a wooden bench .
 the dog is running in the grass .	a dog pounces on the grass .
 a boy in a red shirt , in front of a long blue wall , raises his eyebrow at the camera	the boy in the red shirt is next to a blue wall .
@@ -1146,7 +1146,7 @@ a young boy is running a race .	a boy runs in a race while onlookers watch .
 the girl in a pink coat and pink boods is wading through a puddle .	a girl in a pink jacket is walking through a large puddle .
 a black dog walking through water .	two black dogs walking through the snow .
 a dog leaps out of the water towards shore .	a tan dog jumping through the water towards the shore .
-a black dog is running in snow .	a black dog is swimming with a ball in it 's mouth .
+a black dog is running in snow .	a black dog is swimming with a ball in it ' s mouth .
 a woman dressed in green is playing with her tan dog .	a tan dog licks a girls hand while laying down .
 two homeless men stand outside with a cardboard sign .	two homeless young men holding a cardboard sign .
 a woman is sitting in the water .	the woman is skating in the park .
@@ -1210,7 +1210,7 @@ two boys are jumping into a pool .	two boys are in midair jumping into an ingrou
 two different breeds of brown and white dogs play on the beach .	two dogs playing in the sand at the beach .
 a man plays a guitar for a sick child in a hospital	a man is playing a guitar for a little girl in a hospital .
 one man and two women dressed in vampire costumes	a man and two women dressed in costumes .
-two dogs are bearing their teeth at each other .	two dogs stand in water and bite each other 's mouths .
+two dogs are bearing their teeth at each other .	two dogs stand in water and bite each other ' s mouths .
 a brown dog is running across the snowy ground .	a greyish dog running in the snow .
 two boys , one wearing a hat , in a playground .	boy in tan hat laughs while sitting near playground equipment .
 a woman jogs beside a tall concrete wall .	a woman runs beside a concrete wall .
@@ -1277,7 +1277,7 @@ a young girl in a pink jacket walking down a gravel path in a wooded area .	a li
 a dog runs through a very wooded area .	a dog running through a creek .
 a skateboarder grinds a rail .	a skateboarder uses a ramp .
 two birds interacting in the grass	two dogs play with each other outdoors .
-a woman holds a fat baby with sunglasses and a denim hat .	a small baby wearing sunglasses sits on an adult 's lap .
+a woman holds a fat baby with sunglasses and a denim hat .	a small baby wearing sunglasses sits on an adult ' s lap .
 four dogs stand in the snow .	four dogs playing in the snow .
 a black dog asleep in a car .	a black and tan dog sleeps in the car .
 a white dog and a black and white dog are running through the grass .	a blurred image of a black and white dog running through the grass .
@@ -1344,7 +1344,7 @@ a large gray dog is playing in the deep snow .	four dogs playing in the snow .
 a man riding his bike on the beach by the ocean .	a man walking his cow down the side of the road .
 two dogs are running on the grass in front of the trees .	a brown dog is running on the grass in front of some trees .
 a dog in in a car .	a dog is biting a mop .
-a brown dog is running across the grass with a stick in it 's mouth .	a big tan dog runs on grass with a big stick in his mouth .
+a brown dog is running across the grass with a stick in it ' s mouth .	a big tan dog runs on grass with a big stick in his mouth .
 child holding an object that is on fire .	a child in pink holds an object that appears to be on fire .
 a dog with floppy ears walking towards the camera in the woods .	a child in front of his own reflection turning towards the camera and smiling .
 two tan dogs play in the grass	a lean dog playing in tall grass .
@@ -1385,7 +1385,7 @@ two girls sit at a table outdoors and give their order to the waiter .	two young
 two dogs running together and one has a duck toy in its mouth .	a black and white dog walking through the grass with a long stick in his mouth .
 the black and white dog is running on the grass .	a black and white dog swims in blue water .
 hockey goal-keeper laying on the ice in front of net .	a hockey player is laying on the ice in front of the goal .
-black and white dog outdoors in muddy water , with stick in mouth .	a black and white dog is running though water whilst bearing it 's teeth .
+black and white dog outdoors in muddy water , with stick in mouth .	a black and white dog is running though water whilst bearing it ' s teeth .
 a skier wearing blue snow pants is flying through the air near a jump .	a skier stands on his hands in the snow in front of a movie camera .
 a black and white dog is running on the beach .	the black and white dog is running in the damp sand .
 the brown dog is running along a grassy pathway .	a brown dog is running along a grassy stretch divided by strings .
@@ -1395,7 +1395,7 @@ a dog running along the beach .	boy and girl running along the beach .
 a black dog with a red collar sitting in the sand .	a black and white dog is biting onto a stick in the water .
 child hanging upside down from a tree swing	a girl is by a tree hanging upside-down from a swing .
 a young man and woman sitting on a bench outside are kissing .	the man and woman sitting on a bench are kissing .
-a brown dog is jumping up to catch a green strap in it 's mouth .	a grey dog jumps to bite a green leash .
+a brown dog is jumping up to catch a green strap in it ' s mouth .	a grey dog jumps to bite a green leash .
 two black-robed young men stand on the steps in front of a building .	two orthodox priests stand on the steps outside a church .
 a black dog is running in the grass .	a black and a brown dog running in the grass .
 two gray dogs run through a field of pink heather .	two dogs bound over a flower-covered hill .
@@ -1444,10 +1444,10 @@ two dogs are peeing at a red fire hydrant .	two dogs are urinating on the red fi
 a woman is flying through the air and landing on a bed .	a swan is flying through a body of water .
 two children ride saucers down a snowy hill .	two children go sledding .
 person holding stop sign to direct traffic .	a person standing on a ridge in the desert .
-a brown dog biting a horse 's leg .	a dog nips at the leg of a horse .
+a brown dog biting a horse ' s leg .	a dog nips at the leg of a horse .
 a shirtless man rock climbs .	a man rock climbing .
 a group of dogs playing	a group of dogs racing .
-a rugby player in dark gear is carrying a light colored rugby ball with arm outstretched .	a brown dog splashes in the water while carrying a ball in it 's mouth .
+a rugby player in dark gear is carrying a light colored rugby ball with arm outstretched .	a brown dog splashes in the water while carrying a ball in it ' s mouth .
 dog running on shore beside two geese in water	a black dog running along the sandy shoreline of a body of water while two ducks swim nearby .
 a small dog runs through a grassy field .	two dogs bound across the grass .
 a golden colored dog jumps around in the grass while holding a stick in its mouth .	a black dog is running through the grass carrying something red in its mouth .

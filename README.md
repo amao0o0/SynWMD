@@ -28,7 +28,7 @@ bash get_transfer_data.bash
 cd ../..
 ```
 
-# The Results in Semantic Textual Similarity (STS)
+# The Results in Semantic Textual Similarity (STS) - Spearman
 
 Embeddings        | Methods | STS12 | STS13 | STS14 | STS15 | STS16 | STS-B | Avg.
 ------------------|---------|-------|-------|-------|-------|-------|-------|-----

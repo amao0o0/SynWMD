@@ -36,7 +36,7 @@ the price of a good or service	an assertion that someone is guilty of a fault or
 depict or portray in art , words , or model	create an image or likeness of .
 travel in or be shaped like a zigzag	bend into the shape of a crank .
 annoy , harass , or mock , perhaps playfully .	mock or make fun of playfully .
-( cause to ) smell bad .	be extremely bad in quality or in one 's performance .
+( cause to ) smell bad .	be extremely bad in quality or in one ' s performance .
 social ranking or position	the relative position or standing of things or especially persons in a society .
 ponder , consider , observe carefully	consider in detail and subject to an analysis in order to discover essential features or meaning .
 persuade or achieve acceptance	persuade somebody to accept something .
@@ -50,7 +50,7 @@ the tallied points of a game , at a given time	a number that expresses the accom
 edit so as to block the truth ; prevent distribution	subject to political , religious , or moral censorship .
 a casual , brief meeting with someone	a casual or unexpected convergence .
 an electrical connection between conductor and earth	a connection between an electrical device and a large conducting body , such as the earth ( which is taken to be at zero voltage ) .
-an agent 's act of terminating an activity or event	the act of ending something .
+an agent ' s act of terminating an activity or event	the act of ending something .
 notable or famous persons ( real or fictional )	a well-known or notable person .
 a person who manipulate or controls a device or machine	an agent that operates some apparatus or machine .
 find , determine the place of	determine or indicate the place , site , or limits of , as if by an instrument or by a survey .
@@ -60,7 +60,7 @@ be equivalent , have the same effect as something	be tantamount or equivalent to
 the money	a voluntary gift ( as of money or service or ideas ) made to some worthwhile cause .
 a sudden emotional vocalization	a loud utterance of emotion ( especially when inarticulate ) .
 go back , restore , revive	go back to a previous state .
-settlement of people distant from their homeland	a body of people who settle far from home but maintain ties with their homeland ; inhabitants remain nationals of their home state but are not literally under the home state 's system of government .
+settlement of people distant from their homeland	a body of people who settle far from home but maintain ties with their homeland ; inhabitants remain nationals of their home state but are not literally under the home state ' s system of government .
 ( the discovery or exhibition of ) factual evidence that establishes the truth of something .	a formal series of statements showing that if one thing is true something else necessarily follows from it .
 enter a realm , become involved with	cause to move ; cause to be in a certain position or condition .
 a project or undertaking	earnest and conscientious activity intended to do or accomplish something .
@@ -73,10 +73,10 @@ emit or cause to emit noise	make a certain noise or sound .
 make physical contact with , possibly with the effect of physically manipulating .	cause to be in brief contact with .
 find out or be informed of a new information , understand or realize	get to know or become aware of , usually accidentally .
 head of a country	the chief executive of a republic .
-touch with the lips .	touch with the lips or press the lips ( against someone 's mouth or other body part ) as an expression of love , greeting , etc ..
+touch with the lips .	touch with the lips or press the lips ( against someone ' s mouth or other body part ) as an expression of love , greeting , etc ..
 a natural physical force of drawing towards something	the force used in pulling .
 a change which is a decrease	a gradual decrease ; as of stored charge or current .
-an evaluation , an estimation of worth , a grade	a number or letter indicating quality ( especially of a student 's performance ) .
+an evaluation , an estimation of worth , a grade	a number or letter indicating quality ( especially of a student ' s performance ) .
 having responsibility for managing or supervising	an impetuous rush toward someone or something .
 fail or suffer failure	suffer failure , as in some enterprise .
 an abundance of something	the property of copious abundance .
@@ -153,7 +153,7 @@ observe , perceive	observe with care or pay close attention to .
 limit , keep under control , deter , forbid	to compel or deter by or as if by threats .
 stick out , jut out , protrude	extend out or project in space .
 to act as the host of	be the host of or for .
-put an end to , make invalid a process that 's already begun	make invalid for use .
+put an end to , make invalid a process that ' s already begun	make invalid for use .
 enjoy , be fond of or approve	feel about or towards ; consider , evaluate , or regard .
 per centum	a proportion in relation to a whole ( which is usually the amount per hundred ) .
 an approximate attribute or quality of something	an approximate definition or example .
@@ -185,7 +185,7 @@ take something or someone away from somewhere	go away or leave .
 a stiffener in a garment	( nautical ) brace consisting of a heavy rope or wire cable used as a support for a mast or spar .
 a constructed underground passageway	a passageway through or under something , usually underground ( especially one for trains or cars ) .
 discern , identify , or know because of a previous experience	be fully aware or cognizant of .
-move or change one 's own position or quality	move very slightly .
+move or change one ' s own position or quality	move very slightly .
 incorporate or enclose one thing in another	incorporate a food ingredient into a mixture by repeatedly turning it over without stirring or beating .
 guide , draw through	pass over , across , or through .
 rescue , redeem , deliver from harm or danger	refrain from harming .
@@ -270,7 +270,7 @@ feel hot or painful , as if burning	feel hot or painful .
 a loss of function	loss of ability to function normally .
 administrator , one who controls resources	someone who controls resources and expenditures .
 a stovetop , cooking appliance	a kitchen appliance used for cooking food .
-rinse one 's mouth with mouthwash , gargle	rinse one 's mouth and throat with mouthwash .
+rinse one ' s mouth with mouthwash , gargle	rinse one ' s mouth and throat with mouthwash .
 a quantity that is an approximate calculation	an approximate calculation of quantity or degree or worth .
 turn on an axis ; spin	turn on or around an axis or a center .
 marriage offer	an offer of marriage .
@@ -296,7 +296,7 @@ a variant of a musical theme which employs notes of reduced duration from the or
 time to come	the time yet to come .
 the legal state of owing money	the state of owing something ( especially money ) .
 a style and size of typeset	a specific size and style of type within a type family .
-demand , ask for , or take as one 's due	demand as being one 's due or property ; assert one 's right or title to .
+demand , ask for , or take as one ' s due	demand as being one ' s due or property ; assert one ' s right or title to .
 cause to be distrusted or rejected ; damage the reputation of .	damage the reputation of .
 give equal rights to , as of the right to vote .	give equal rights to ; of women and minorities .
 ( cause to ) lengthen or expand in time or some abstract realm	lengthen in time ; cause to be or last longer .
@@ -468,7 +468,7 @@ a spoken or written reply to a question	a statement ( either spoken or written )
 committee with supervisory powers	a committee having supervisory powers .
 a section of a composition , textual or musical	a short section of a musical composition .
 a gear for changing the motion of a machine to the opposite direction	the gears by which the motion of a machine can be reversed .
-take a digestion-aiding walk after a meal	take a walk for one 's health or to aid digestion , as after a meal .
+take a digestion-aiding walk after a meal	take a walk for one ' s health or to aid digestion , as after a meal .
 forked form or shape	a part of a forked or branching shape .
 insert or close with a plug	fill or close tightly with or as if with a plug .
 incite some act of insubordination	incite , move , or persuade to some act of lawlessness or insubordination .
@@ -497,7 +497,7 @@ a verbal or written request for access to something .	a verbal or written reques
 have a logical result	have as a logical consequence .
 travel on foot .	cross on foot .
 the act of suction	the act of sucking .
-a band of leather or rope made to identify animals .	a band of leather or rope that is placed around an animal 's neck as a harness or to identify it .
+a band of leather or rope made to identify animals .	a band of leather or rope that is placed around an animal ' s neck as a harness or to identify it .
 put a harness on .	put a harness .
 provide or equip specifically with furniture .	provide or equip with furniture .
 to move ( the head or body ) quickly downwards or away ( from something ) .	to move ( the head or body ) quickly downwards or away .
@@ -523,7 +523,7 @@ angle with a hook and line and draw through water	angle with a hook and line dra
 the front face of a building	the face or front of a building .
 make something more diverse or varied	make something more diverse and varied .
 issue bonds on something	issue bonds on .
-women 's sleeveless undergarment	a woman 's sleeveless undergarment .
+women ' s sleeveless undergarment	a woman ' s sleeveless undergarment .
 move oneself very fast .	move very fast .
 oppose or approach , as in hostility or competition	oppose , as in hostility or a competition .
 make more complex or intricate	make more complex , intricate , or richer .
@@ -532,7 +532,7 @@ create a new entity by putting components or members together	create by putting 
 the activity of providing supplies	the activity of supplying or providing something .
 make or become brighter or lighter	make lighter or brighter .
 actors in a play	the actors in a play .
-take someone 's soul into heaven	take up someone 's soul into heaven .
+take someone ' s soul into heaven	take up someone ' s soul into heaven .
 discipline in personal or social activities .	discipline in personal and social activities .
 a person eating a meal , often in a restaurant	a person eating a meal ( especially in a restaurant ) .
 a sudden ( emotional ) outburst .	a sudden outburst .
@@ -575,7 +575,7 @@ a feeling of aversion , distaste , antipathy	a feeling of aversion or antipathy 
 release ( gas or energy ) as a result of a chemical reaction or physical decomposition ( perhaps in a metaphorical sense )	release ( gas or energy ) as a result of a chemical reaction or physical decomposition .
 overcome with amazement ; flabbergast	overcome with amazement .
 behave in a condescending manner	behave in a patronizing and condescending manner .
-take into one 's family or group	take into one 's family .
+take into one ' s family or group	take into one ' s family .
 ( contract bridge ) the highest bid becomes the contract setting in the number of tricks that the bidder must make .	( contract bridge ) the highest bid becomes the contract setting the number of tricks that the bidder must make .
 go on a campaign or off to war	go on a campaign ; go off to war .
 react , or respond to a call , command , or stimulus	react to a stimulus or command .
@@ -610,23 +610,23 @@ give an incentive or reason for action .	give an incentive for action .
 the day before today	the day immediately before today .
 take or capture by force or authority	take or capture by force .
 ( medicine ) apply a plaster cast to .	apply a plaster cast to .
-interfere with someone else 's activity	interfere in someone else 's activity .
+interfere with someone else ' s activity	interfere in someone else ' s activity .
 assign a new time for an event	assign a new time and place for an event .
 value measured by what must be given or done to obtain something .	value measured by what must be given or done or undergone to obtain something .
 touch or hold with the hands	touch , lift , or hold with the hands .
 scrape or rub to relieve itching	scrape or rub as if to relieve itching .
 give a detailed account of	narrate or give a detailed account of .
-any activity that acquires a person 's attention .	any activity that occupies a person 's attention .
+any activity that acquires a person ' s attention .	any activity that occupies a person ' s attention .
 cause to become awake or alert	cause to become awake or conscious .
 provide a feast or banquet	provide a feast or banquet for .
-the act of hindering someone 's plans or efforts .	an act of hindering someone 's plans or efforts .
+the act of hindering someone ' s plans or efforts .	an act of hindering someone ' s plans or efforts .
 fool or hoax ( someone ) .	fool or hoax .
 raising the stakes or bet of a game by a factor of 2	raising the stakes in a card game by a factor of 2 .
 the ( period of ) control of a country by military forces of a foreign power .	the control of a country by military forces of a foreign power .
 ( computer science ) the occurence of an incorrect result produced by a computer .	( computer science ) the occurrence of an incorrect result produced by a computer .
 give pleasure , satifaction , or happiness ; be pleasing to	give pleasure to or be pleasing to .
 the soft padding under a saddle	a soft pad placed under a saddle .
-elecate or idealize in allusion to christ 's transfiguration	elevate or idealize , in allusion to christ 's transfiguration .
+elecate or idealize in allusion to christ ' s transfiguration	elevate or idealize , in allusion to christ ' s transfiguration .
 inability of the heart to pump blood to sustain life functions	inability of the heart to pump enough blood to sustain normal bodily functions .
 cause to vibrate in a different pattern	cause to vibrate in a definite pattern .
 warn or call to a sense of preparedness	warn or arouse to a sense of danger or call to a state of preparedness .
@@ -634,7 +634,7 @@ adapt oneself to new or different conditions .	adapt or conform oneself to new o
 move faster , or cause to move faster	cause to move faster .
 supply food ready to eat , as for parties and banquets .	supply food ready to eat ; for parties and banquets .
 express protest or dissent , raise an objection	express or raise an objection or protest or criticism or express dissent .
-clear mucus from one 's throat	clear mucus or food from one 's throat .
+clear mucus from one ' s throat	clear mucus or food from one ' s throat .
 pass into a state or condition	pass into a specified state or condition .
 add embellishments ( to medieval manuscripts )	add embellishments and paintings to ( medieval manuscripts ) .
 make or become thick	make thick or thicker .

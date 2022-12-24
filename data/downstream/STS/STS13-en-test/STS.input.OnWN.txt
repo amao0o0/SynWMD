@@ -67,7 +67,7 @@ cause to have an odor	cause to become alive again .
 fall or cause to fall	let or cause to fall in drops .
 the act of allowing , bestowing something	the act of testing something .
 keep from being seen or perceived by others	hold back ; keep from being perceived by others .
-a document authorizing another to vote on one 's behalf	a power of attorney document given by shareholders of a corporation authorizing a specific vote on their behalf at a corporate meeting .
+a document authorizing another to vote on one ' s behalf	a power of attorney document given by shareholders of a corporation authorizing a specific vote on their behalf at a corporate meeting .
 the act of lifting something	the act of retaining something .
 the act of combining , blending , integrating	the act of chipping something .
 smell by inhaling through the nose	perceive by inhaling through the nose .
@@ -97,7 +97,7 @@ oppose or approach , as in hostility or competition	oppose , as in hostility or 
 travel ( as if ) through water .	move as if through a sieve .
 administer or bestow , as portions	administer or bestow , as in small portions .
 form a spiral or move in a spiral course .	to wind or move in a spiral course .
-induce into action by using one 's charm ; provoke to do something .	induce into action by using one 's charm .
+induce into action by using one ' s charm ; provoke to do something .	induce into action by using one ' s charm .
 connected underground tunnels used by rabbits	a series of connected underground tunnels occupied by rabbits .
 hold or embrace in a tight grip	hold in a tight grasp .
 the shape of a wave in a given period of time	the shape of a wave illustrated graphically by plotting the values of the period quantity against time .
@@ -138,7 +138,7 @@ any cause or source of great suffering	any affliction that causes great sufferin
 the act of moving , turning something	the act of drawing or hauling something .
 to remain emotionally or intellectually attached without necessary physical contact .	to remain emotionally or intellectually attached .
 the state of being pleased with life .	the state of being rejected .
-the height of the sea 's surface	the solid part of the earth 's surface .
+the height of the sea ' s surface	the solid part of the earth ' s surface .
 the act of testing something .	the act of starting something .
 cover with a primer base	cover with a primer ; apply a primer to .
 discover a logical or causal connection ; associate	make a logical or causal connection .
@@ -215,7 +215,7 @@ be a factor or play a role in something	the act of stopping something .
 the trading price between sellers and buyers in a an open marketplace	the price at which buyers and sellers trade the item in an open marketplace .
 request or demand something from someone	the act of damaging something or someone .
 the act of confining , preventing or blocking something	the act of forming or establishing something .
-ride on someone 's shoulders or back ; support on the back or shoulders .	support on the back and shoulders .
+ride on someone ' s shoulders or back ; support on the back or shoulders .	support on the back and shoulders .
 oppose with equal weight or force	contrast with equal weight or force .
 the quality of acting with vigor and vitality	the quality of not being useful or convenient .
 the quality of being important , worthy of attention	the quality of being important and worthy of note .
@@ -270,7 +270,7 @@ cause a sharp or stinging pain to	cause a sharp or stinging pain or discomfort .
 the act of choosing or selecting	the act of dropping something .
 incite action , cause an event	serve as the inciting cause of .
 come up , as of liquid or gas	come up , as of a liquid .
-( cause to ) become less tense ; rest or take one 's ease .	become less tense , rest , or take one 's ease .
+( cause to ) become less tense ; rest or take one ' s ease .	become less tense , rest , or take one ' s ease .
 adapt to a specified measurement or proportion	adapt to a specified measurement .
 anatomical shape of the body of a being , physique	alternative names for the body of a human being .
 cause romantic action ; lure away from proper conduct	lure or entice away from duty , principles , or proper conduct .
@@ -295,7 +295,7 @@ design for a specific purpose	plan something for a specific role or purpose or e
 to combat or oppose someone or something	the act of forcing out someone or something .
 ( cause to ) form a cluster in either abstract or physical space .	cause to have , in the abstract sense or physical sense .
 a mental grasp or understanding of something	understanding of the nature or meaning or quality or magnitude of something .
-do something considered below one 's diginty	do something that one considers to be below one 's dignity .
+do something considered below one ' s diginty	do something that one considers to be below one ' s dignity .
 ( game ) a division during which one is allowed to play ( perhaps as offense ) .	( sports ) a division during which one team is on the offensive .
 the act of cutting off length , snipping off	the act of clipping or snipping .
 a sovereign regime and its assemblage	the sovereign and his advisers who are the governing power of a state .
@@ -434,7 +434,7 @@ the natural progression or development of something	the natural process of layin
 the act of pulling an object	the act of choosing or selecting .
 a perceptual distinction based on color or shading .	the perceptual effect of the juxtaposition of very different colors .
 the act of purchasing back something previously sold .	the act of retaining something .
-cook in cream or using cream .	add cream to one 's coffee , for example .
+cook in cream or using cream .	add cream to one ' s coffee , for example .
 a negative or undesirable aspect of something	consider as part of something .
 gear or develop something to a particular purpose	suit to a special purpose .
 identify or pick out someone or something	the act of losing someone or something .
@@ -446,7 +446,7 @@ the act of lifting something	the act of starting something .
 form schemes in an underhand manner	form intrigues ( for ) in an underhand manner .
 identify or pick out someone or something	the act of forcing out someone or something .
 the act of applying torture to the foot and leg	a form of foot torture in which the feet are encased in iron and slowly crushed .
-move as if unable to control one 's manner or direction of movement .	walk as if unable to control one 's movements .
+move as if unable to control one ' s manner or direction of movement .	walk as if unable to control one ' s movements .
 arrangement for managing assets on behalf of a beneficiary	something ( as property ) held by one party ( the trustee ) for the benefit of another ( the beneficiary ) .
 make fit for a specific purpose	provide with ( something ) usually for a specific purpose .
 the act of lifting something	the act of winding or twisting .
@@ -476,7 +476,7 @@ situate , position , come to rest	settle into a position , usually on a surface 
 sever or remove by pinching or snipping ; tend by cutting .	sever or remove by pinching or snipping .
 the act of lifting something	the act of damaging something or someone .
 place limits on ; form the boundary of or be contiguous to .	form the boundary of ; be contiguous to .
-the value of a currency 's conversion to another currency	the charge for exchanging currency of one country for currency of another .
+the value of a currency ' s conversion to another currency	the charge for exchanging currency of one country for currency of another .
 the graduated arc of an instrument used to measure angles	the graduated arc that is attached to an instrument for measuring angles .
 the act of lifting something	the act of testing something .
 the act of escaping , fleeing	the act of retaining something .
@@ -527,7 +527,7 @@ strive against another or others to attain a goal	compete for something ; engage
 the act of testing something .	the act of cracking something .
 gather or remove ( from a location ) for use .	remove from a position or office .
 the act of directing attention , resources to something	the act of colliding with something .
-ride on someone 's shoulders or back ; support on the back or shoulders .	ride on someone 's shoulders or back .
+ride on someone ' s shoulders or back ; support on the back or shoulders .	ride on someone ' s shoulders or back .
 the act of combining , blending , integrating	the act of mixing together .
 a solid 3d object with rectangular sides	a solid piece of something ( usually having flat rectangular sides ) .
 the translation of an opus from one language to another	the act of moving from one place to another .

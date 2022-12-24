@@ -26,7 +26,7 @@ a girl is styling her hair .	a girl is brushing her hair .
 the polar bear is sliding on the snow .	a polar bear is sliding across the snow .
 a woman is writing .	a woman is swimming .
 three men are playing guitars .	three men are on stage playing guitars .
-a cat is rubbing against baby 's face .	a cat is rubbing against a baby .
+a cat is rubbing against baby ' s face .	a cat is rubbing against a baby .
 the man is riding a horse .	a man is riding on a horse .
 a man pours oil into a pot .	a man pours wine in a pot .
 a man is playing a guitar .	a girl is playing a guitar .
@@ -43,7 +43,7 @@ the cougar is chasing the bear .	a cougar is chasing a bear .
 a rabbit is running from an eagle .	a hare is running from a eagle .
 the man cut down a tree with an axe .	a man chops down a tree with an axe .
 the woman is frying a breaded pork chop .	a woman is cooking a breaded pork chop .
-one woman is measuring another woman 's ankle .	a woman measures another woman 's ankle .
+one woman is measuring another woman ' s ankle .	a woman measures another woman ' s ankle .
 a girl is flying a kite .	a girl running is flying a kite .
 a man is riding a mechanical bull .	a man rode a mechanical bull .
 the man is playing the guitar .	a man is playing a guitar .
@@ -205,7 +205,7 @@ a woman is riding a motorized scooter down a road .	a man is riding a motor scoo
 someone is slicing a vegetable .	someone is slicing a tomato .
 a woman is dancing .	a man is talking .
 a man is playing a guitar .	a man plays the guitar .
-a dog licks up a baby 's drool .	a dog licks a baby .
+a dog licks up a baby ' s drool .	a dog licks a baby .
 a man is rowing a boat .	a man is slicing a tomato .
 a young woman is putting stickers all over her face .	a woman is applying stickers to her face .
 a man cuts up potatos .	a man slices potatoes .
@@ -222,7 +222,7 @@ a man is eating food .	a man is eating something .
 a woman cracks two eggs into a glass bowl .	a woman is cracking an egg into a bowl .
 a man is playing a basketball .	a man is playing a piano .
 a man is cutting a fish .	a man guts a fish .
-two men are packing suitcases into the trunk of a car .	the men are putting suitcases into the car 's trunk .
+two men are packing suitcases into the trunk of a car .	the men are putting suitcases into the car ' s trunk .
 a toddler walks down a hallway .	a little girl is walking down a hallway .
 a man pours oil on some tomatos .	the man poured oil on the cut tomatoes .
 a man is slicing something .	a man is slicing a bun .
@@ -293,7 +293,7 @@ a woman slices tofu .	a woman is cutting tofu .
 a herd of deer are crossing the street .	a herd of caribou are crossing a road .
 the person is riding the horse .	a man is riding a horse .
 someone is feeding a animal .	someone is playing a piano .
-someone is slicing tortila 's .	someone is riding a horse .
+someone is slicing tortila ' s .	someone is riding a horse .
 someone is mixing ingrediants .	someone is sewing things .
 a rooster pecks at a dead mouse .	a chicken is pecking at a dead mouse .
 a woman holds a kangaroo .	a woman is picking up a kangaroo .
@@ -424,7 +424,7 @@ a chimpanzee is hurting a woman .	a man is driving a car .
 the woman is peeling shrimp .	the man is holding a lemur .
 a guy is playing hackysack	a man is playing a key-board .
 a man is playing a guitar .	a woman is riding a horse .
-one man is breaking cement on another man 's chest .	a man breaks cinder blocks on another man .
+one man is breaking cement on another man ' s chest .	a man breaks cinder blocks on another man .
 two zebras are playing .	zebras are socializing .
 a woman is slicing butter .	a woman slices tofu .
 some men are playing guitars .	three men are playing guitars and singing together .
@@ -550,7 +550,7 @@ a woman peels garlic with her hands .	the woman is slicing herbs .
 the polar bears fought over the kill .	polar bears are fighting each other .
 a woman is riding a horse along a perimeter .	a dog is riding a skateboard .
 a woman is putting her baby in a waste bin .	the woman is poking holes in the potato .
-a woman puts a garland over a man 's shoulders .	a man pours water over a pilots head .
+a woman puts a garland over a man ' s shoulders .	a man pours water over a pilots head .
 an old woman is shaking hand with a man .	a man and a woman shake hands .
 a man is doing trick with play cards .	a man is performing a card trick .
 the woman is waterskiing .	a woman is wake boarding on a lake .
@@ -598,7 +598,7 @@ a man is playing a guitar .	someone is handling a bun .
 a dog is jumping on a trampoline .	a boy is playing a guitar .
 a man is shaking a container over a kitchen sink .	a man is emptying a plastic container .
 a man is playing a football .	a man is maneuvering a soccer ball with his feet .
-a man is walking with a horse .	a man is leading a horse around by it 's halter .
+a man is walking with a horse .	a man is leading a horse around by it ' s halter .
 paper is being cut with scissors .	a piece of paper is being cut .
 the lady peeled the potatoe .	a woman is peeling a potato .
 a person peels shrimp .	the lady peeled the shrimp .
@@ -616,7 +616,7 @@ a woman holds a kangaroo .	a man in a hat sings a song .
 someone typed on a keyboard .	someone is typing .
 soccer players are kicking a soccer ball into the goal .	a soccer player scores a goal .
 a woman is cooking something .	a woman is pouring ingredients into a frying pan .
-a woman is swimming in the beach .	a woman splashes around in the ocean 's waves .
+a woman is swimming in the beach .	a woman splashes around in the ocean ' s waves .
 a man is carrying another man .	a man sprays another man with water from a hose .
 the woman is putting paste into a dish .	a woman is pulling some kind of sticky goo out of a bowl .
 a man is holding up and talking about a gray you tube t-shirt .	a man is showing a t shirt .
@@ -628,7 +628,7 @@ a person is peeling a potato .	a cat is licking a small bottle .
 a cat is jumping into a box .	a young man is talking to a leaf .
 a young asian girl is applying eyeliner .	a girl is putting on eye makeup .
 the woman is seasoning the oil .	a woman is pouring ingredients in a bowl .
-a cat is sliding upside down under a couch .	a cat is crawling under a piece of furniture on it 's back .
+a cat is sliding upside down under a couch .	a cat is crawling under a piece of furniture on it ' s back .
 a woman dances while a man plays the keyboard .	a woman is dancing on a stage .
 a chef is cleaning up a bowl of soup .	a man is wiping the edge of a bowl off .
 an explosion is booming in the desert .	a nuclear weapon explodes in a desert .
@@ -732,7 +732,7 @@ a man is dragging a dead deer .	a man is jumping into water from a cliff .
 a cat is licking himself .	a man is slicing a white onion with a mandolin slicer .
 a woman cuts up some vegetables .	a woman is placing skewered food onto a cooker .
 a man is preparing a snake for cooking .	the man is dropping sliced cucumbers into water .
-a woman is spreading mustard on a bread roll .	a kitten is playing with a woman 's finger .
+a woman is spreading mustard on a bread roll .	a kitten is playing with a woman ' s finger .
 a small guinea pig is gnawing and eating a piece of carrot on the floor .	a guinea pig eats a carrot .
 four boys are standing in front of the burning car .	four young men stand still as a car explodes behind them .
 the lady cut the tail and body of a shrimp .	a woman is cleaning a shrimp .

@@ -416,18 +416,8 @@ def berttk2wordtk(berttk):
 
 def form_subtree(parsed_sent, t2w, tree='t', rel_kept=[], hop_num=1):
     G = lib_dep.sentdic2dicgraph(parsed_sent)
-    if tree == 'b':
-        subtree_w = lib_dep.node_bottomsubtree(G)
-    elif tree == 't':
-        source = [id for id, element in enumerate(parsed_sent) if element['deprel']=='root'][0]
-        subtree_w = lib_dep.node_topsubtree(G, source)
-    elif tree == 's':
-        subtree_w = lib_dep.node_smallsubtree(G, hop_num)
-    elif tree == 'e':
-        subtree_w = lib_dep.node_exactsubtree(G, hop_num)
-    elif tree == 'c':
-        G = lib_dep.sentdic2undicgraph(parsed_sent)
-        subtree_w = lib_dep.node_centersubtree(G, hop_num)
+    if tree == 's':
+        subtree_w = lib_dep.node_subtree(G, hop_num)
     else:
         subtree_w = []
     
