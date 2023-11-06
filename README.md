@@ -71,7 +71,6 @@ If you find our model is useful in your research, please consider cite our paper
   publisher={Elsevier}
 }
 ```
-Our paper is submitted to Pattern Recognition Letters, citation info will be updated once it is accepted.
 
 # Acknowledge
 A part of the code is modified from other work. Many thanks for
